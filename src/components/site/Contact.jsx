@@ -10,9 +10,9 @@ const FIELD =
   "w-full border-b border-white/12 bg-transparent py-3 text-white placeholder:text-[#6b7280] outline-none transition-colors duration-300 focus:border-[#f5b400]";
 
 const CONTACT_INFO = [
-  { icon: Mail, label: "Email", value: "hello@creonextech.com" },
-  { icon: Phone, label: "Phone", value: "+1 (415) 555-0199" },
-  { icon: MapPin, label: "Office", value: "One Market St, San Francisco, CA" },
+  { icon: Mail, label: "Email", value: "operations.creonextech@gmail.com" },
+  // { icon: Phone, label: "Phone", value: "+1 (415) 555-0199" },
+  { icon: MapPin, label: "Office", value: "20 Bugsby's Way, London, United Kingdom" },
 ];
 
 const Contact = () => {
