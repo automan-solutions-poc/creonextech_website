@@ -1,0 +1,9 @@
+.App {
+  text-align: left;
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .App, .App a, .App button {
+    cursor: none;
+  }
+}
